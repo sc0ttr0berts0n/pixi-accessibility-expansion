@@ -1,6 +1,10 @@
 # @pixi/accessibility
 
-SR Version
+SR Version with improvements:
+
+-   HTML Element default is Div, not button
+-   Tabindex applied if specified by DisplayObject
+-   Non-interactive elements get added to the DOM as well
 
 ## Installation
 
