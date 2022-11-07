@@ -1,5 +1,7 @@
 # @pixi/accessibility
 
+SR Version
+
 ## Installation
 
 ```bash
